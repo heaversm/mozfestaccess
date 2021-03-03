@@ -1,3 +1,5 @@
+![Event Logo - Person with VR Goggles](https://pretalx.com/media/mozfest-2021/submissions/MJWAMG/vr-accessibility_AUz8WJT.png)
+
 # Designing Accessible VR Experiences
 
 ### A Panel on VR Accessibility and 3D Virtual Tour in Mozilla Hubs 
