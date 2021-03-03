@@ -27,6 +27,8 @@ From the varied perspectives of Research, Community Activism, and Virtual Educat
 
 ## Hubs Experience
 
+![VR Accessibility in Mozilla Hubs Screen Captures](https://raw.githubusercontent.com/heaversm/mozfestaccess/gh-pages/assets/img/mozaccess.gif)
+
 **TLDR**
 
 The Hubs Experience showcases various accessibility techniques, innovations, considerations, and best practices in VR. In addition, it encourages collaboration and contribution of ideas that will further VR accessibility in the future.
