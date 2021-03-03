@@ -9,11 +9,18 @@ This MozFest experience is both a panel discussion and an open Social VR 3D worl
 The Panel Discussion will feature 3 guest speakers:
 
 ![Photo of Dr. Mar Gonzalez Franco](https://raw.githubusercontent.com/heaversm/mozfestaccess/gh-pages/assets/img/margonzalezfranco-sm.jpg)
+![Microsoft Rocketbox Avatars](https://raw.githubusercontent.com/heaversm/mozfestaccess/gh-pages/assets/img/mar-work.jpg)
+
 [Dr. Mar Gonzalez Franco](https://www.microsoft.com/en-us/research/people/margon/), Accessible Mixed Reality researcher at Microsoft whose [Locomotion Vault content](https://locomotionvault.github.io/) is featured in the Hubs Motion Room
 
 ![Photo of Dylan Fox](https://raw.githubusercontent.com/heaversm/mozfestaccess/gh-pages/assets/img/dylanfox-sm.jpg)
+![Object Sonification Experiment](https://raw.githubusercontent.com/heaversm/mozfestaccess/gh-pages/assets/img/dylan-work.jpg)
+
 [Dylan Fox](https://drfoxdesign.com/), Accessibilty Consultant and leader of the Application Accessibility group for [XR Access](https://xraccess.org/)
+
 ![Photo of Stephen Lee](https://raw.githubusercontent.com/heaversm/mozfestaccess/gh-pages/assets/img/stephenlee-sm.jpg)
+![Projection Mapped Building Lit Up](https://raw.githubusercontent.com/heaversm/mozfestaccess/gh-pages/assets/img/stephenlee-work.jpg)
+
 [J. Stephen Lee](https://jstephenlee.cargo.site/), Portland State University, whose Interactive / Experience design students have built galleries of their works using Hubs.
 
 From the varied perspectives of Research, Community Activism, and Virtual Education, we will discuss what it means to create accessible virtual spaces.
