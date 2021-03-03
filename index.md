@@ -2,7 +2,7 @@
 
 ### A Panel on VR Accessibility and 3D Virtual Tour in Mozilla Hubs
 
-This MozFest experience is both a panel discussion and an open Social VR 3D world built in Mozilla Hubs. **The Hubs exhibit** will be available for you to drop in on at any point throughout the festival and beyond. **The panel discussion** takes place at 9:00am PST / 18:00 UTC on March 8th.
+This MozFest experience is both a panel discussion and an open Social VR 3D world built in Mozilla Hubs. **[The Hubs exhibit](https://hubs.mozilla.com/MvPSJJQ/mozfest-vr-accessibility)** will be available for you to drop in on at any point throughout the festival and beyond. **[The panel discussion](https://schedule.mozillafestival.org/session/MJWAMG-1)** takes place at 9:00am PST / 18:00 UTC on March 8th. [Register for MozFest](https://www.mozillafestival.org/en/tickets/) and sign up to attend the panel!
 
 ## Panel Discussion
 
