@@ -8,7 +8,9 @@ This MozFest experience is both a panel discussion and an open Social VR 3D worl
 
 The Panel Discussion will feature 3 guest speakers:
 
-- [Dr. Mar Gonzalez Franco](https://www.microsoft.com/en-us/research/people/margon/), Accessible Mixed Reality researcher at Microsoft whose [Locomotion Vault content](https://locomotionvault.github.io/) is featured in the Hubs Motion Room
+![Photo of Dr. Mar Gonzalez Franco](/assets/images/margonzalezfranco-sm.jpg)
+[Dr. Mar Gonzalez Franco](https://www.microsoft.com/en-us/research/people/margon/), Accessible Mixed Reality researcher at Microsoft whose [Locomotion Vault content](https://locomotionvault.github.io/) is featured in the Hubs Motion Room
+
 - [Dylan Fox](https://drfoxdesign.com/), Accessibilty Consultant and leader of the Application Accessibility group for [XR Access](https://xraccess.org/)
 - [J. Stephen Lee](https://jstephenlee.cargo.site/), Portland State University, whose Interactive / Experience design students have built galleries of their works using Hubs.
 
