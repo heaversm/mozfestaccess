@@ -88,5 +88,6 @@ I set out on this project knowing little about VR Accessibility or Mozilla Hubs.
 
 [Thomas Logan, Equal Entry](https://equalentry.com/about/) - Excellent resources on this and other Accessibility topics. His feedback was incredibly valuable, and unfortunately his timezone made it impossible for him to be on the panel, but make sure to check out some of his meetups in Hubs!
 
-- Nicole Shadowen and Heather McGeachy, who cued me in to some great research and are constantly looking for ways to make Mozilla's work more inclusive.
-- The entire Hubs team (as well as the DPX Hubs folks), especially **Elgin-Skye McLaren**, the Hubs Community Manager, who ceaselessly works to connect with and learn from everyone in the greater community to make Hubs an inclusive space. She was the start of all of this!
+Nicole Shadowen and Heather McGeachy, who cued me in to some great research and are constantly looking for ways to make Mozilla's work more inclusive.
+
+The entire Hubs team (as well as the DPX Hubs folks), especially **Elgin-Skye McLaren**, the Hubs Community Manager, who ceaselessly works to connect with and learn from everyone in the greater community to make Hubs an inclusive space. She was the start of all of this!
