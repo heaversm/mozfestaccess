@@ -80,7 +80,13 @@ You can also [file issues](https://github.com/heaversm/mozfestaccess/issues/new/
 
 I set out on this project knowing little about VR Accessibility or Mozilla Hubs. Through the help of a great many folks, some of whom I may be forgetting here, I have learned a ton, and if you take the time to learn more about these people's work, I'm certain you will as well. In addition to the amazing panelists mentioned above:
 
-- [LeeAhnn Victorio](https://www.linkedin.com/in/leeahnn-victorio-6785ab16b/) - Designer whose feedback on the accessibility issues within my own Hubs experience was priceless. She helped bring the UI room specifically into a better state.
-- [Thomas Logan, Equal Entry](https://equalentry.com/about/) - Excellent resources on this and other Accessibility topics. His feedback was incredibly valuable, and unfortunately his timezone made it impossible for him to be on the panel, but make sure to check out some of his meetups in Hubs!
+![LeeAhnn Victorio Hubs Room Image](https://raw.githubusercontent.com/heaversm/mozfestaccess/gh-pages/assets/img/logo-leeahnn.jpg)
+
+[LeeAhnn Victorio](https://www.linkedin.com/in/leeahnn-victorio-6785ab16b/) - Designer whose feedback on the accessibility issues within my own Hubs experience was priceless. She helped bring the UI room specifically into a better state.
+
+![Equal Entry Logo](https://raw.githubusercontent.com/heaversm/mozfestaccess/gh-pages/assets/img/logo-equal-entry.jpg)
+
+[Thomas Logan, Equal Entry](https://equalentry.com/about/) - Excellent resources on this and other Accessibility topics. His feedback was incredibly valuable, and unfortunately his timezone made it impossible for him to be on the panel, but make sure to check out some of his meetups in Hubs!
+
 - Nicole Shadowen and Heather McGeachy, who cued me in to some great research and are constantly looking for ways to make Mozilla's work more inclusive.
 - The entire Hubs team (as well as the DPX Hubs folks), especially **Elgin-Skye McLaren**, the Hubs Community Manager, who ceaselessly works to connect with and learn from everyone in the greater community to make Hubs an inclusive space. She was the start of all of this!
