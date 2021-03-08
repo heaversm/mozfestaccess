@@ -11,17 +11,17 @@ The Panel Discussion will feature 3 guest speakers:
 ![Photo of Dr. Mar Gonzalez Franco](https://raw.githubusercontent.com/heaversm/mozfestaccess/gh-pages/assets/img/margonzalezfranco-sm.jpg)
 ![Microsoft Rocketbox Avatars](https://raw.githubusercontent.com/heaversm/mozfestaccess/gh-pages/assets/img/mar-work.jpg)
 
-[Dr. Mar Gonzalez Franco](https://www.microsoft.com/en-us/research/people/margon/), Accessible Mixed Reality researcher at Microsoft whose [Locomotion Vault content](https://locomotionvault.github.io/) is featured in the Hubs Motion Room
+[Dr. Mar Gonzalez Franco](https://www.microsoft.com/en-us/research/people/margon/), Principal Accessible Mixed Reality researcher at Microsoft's Extended Perception Interaction and Cognition Lab (EPIC) whose [Locomotion Vault content](https://locomotionvault.github.io/) is featured in the Hubs Motion Room
 
 ![Photo of Dylan Fox](https://raw.githubusercontent.com/heaversm/mozfestaccess/gh-pages/assets/img/dylanfox-sm.jpg)
 ![Object Sonification Experiment](https://raw.githubusercontent.com/heaversm/mozfestaccess/gh-pages/assets/img/dylan-work.jpg)
 
-[Dylan Fox](https://drfoxdesign.com/), Accessibilty Consultant and leader of the Application Accessibility group for [XR Access](https://xraccess.org/)
+[Dylan Fox](https://drfoxdesign.com/), part of the Coordination and Engagement team for [XR Access](https://xraccess.org/), an organization dedicated to making virtual and augmented reality accessible to people with disabilities. He also works as a researcher at the University of California, Berkeley, studying how AR can help people with low vision navigate real-world obstacles.
 
 ![Photo of Stephen Lee](https://raw.githubusercontent.com/heaversm/mozfestaccess/gh-pages/assets/img/stephenlee-sm.jpg)
 ![Projection Mapped Building Lit Up](https://raw.githubusercontent.com/heaversm/mozfestaccess/gh-pages/assets/img/stephenlee-work.jpg)
 
-[J. Stephen Lee](https://jstephenlee.cargo.site/), Portland State University, whose Interactive / Experience design students have built galleries of their works using Hubs.
+[J. Stephen Lee](https://www.instagram.com/j_stephen_lee/), a designer and educator with a background in branding, motion, interactive, and experience design. Stephen is an assistant professor in the Graphic Design program at Portland State University.
 
 From the varied perspectives of Research, Community Activism, and Virtual Education, we will discuss what it means to create accessible virtual spaces.
 
